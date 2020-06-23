@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'forward';
+  src: url('forward.woff') format('woff'),
+   url('forward.ttf') format('truetype');
+} 
+
+.disable-hover,
+.disable-hover * {
+  pointer-events: none !important;
+}
+
+.inline {
+   display:inline-block;
+   margin-right:2px;
+}
