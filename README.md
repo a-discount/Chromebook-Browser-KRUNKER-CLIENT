@@ -7,7 +7,7 @@ Discord: Discount#1188
 Krunker Username: forgiving
 Reddit: u/forgiving_
 Discord: https://discord.io/kclan/
-# What's NEW v0.2
+# What's NEW v0.1.2.99
 - optimization for FPS
 - Added smoother gameplay by reducing some html events
 # Loading the Chrome Extension
