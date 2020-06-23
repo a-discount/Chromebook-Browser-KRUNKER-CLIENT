@@ -1,7 +1,7 @@
 {
    "manifest_version" :2,
    "name": "Krunker Client Extension",
-   "version": "0.1.2.99",
+   "version": "0.2.0.5",
    "permissions": ["tabs"],
    "content_scripts": [
       {
