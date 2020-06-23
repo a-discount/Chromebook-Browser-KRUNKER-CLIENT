@@ -12,10 +12,10 @@ Discord: https://discord.io/kclan/
 - Added smoother gameplay by reducing some html events
 # Loading the Chrome Extension
 1. Download the ZIP file
-2. Extract the folder krunker-client-master and put it into your downloads
+2. Extract the folder Chromebook-Browser-KRUNKER-CLIENT-master and put it into your downloads
 3. Go to chrome://extensions
 4. turn on developer mode in the top right hand corner
 5. Click on load unpacked
-6. Select the folder krunker-client-master
+6. Select the folder Chromebook-Browser-KRUNKER-CLIENT-master
 7. Go to the github site for more information
 #
