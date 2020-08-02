@@ -7,9 +7,11 @@ Discord: Discount#1188
 Krunker Username: forgiving
 Reddit: u/forgiving_
 Discord: https://discord.io/kclan/
-# What's NEW v0.1.2.99
-- optimization for FPS
+# What's NEW v0.8.9.99
+- Optimization for FPS
 - Added smoother gameplay by reducing some html events
+- Cleaner Code
+- Added Clan Button for Clan Games Krunker Update 2.6.9
 # Loading the Chrome Extension
 1. Download the ZIP file
 2. Extract the folder Chromebook-Browser-KRUNKER-CLIENT-master and put it into your downloads
