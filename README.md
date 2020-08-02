@@ -19,6 +19,6 @@ Discord: https://discord.io/kclan/
 6. Select the folder Chromebook-Browser-KRUNKER-CLIENT-master
 7. Go to the github site for more information
 #
-<iframe src="https://krunker.io" width="500" height="650"></iframe>
+<iframe src="https://krunker.io" width="500px" height="650px"></iframe>
 
 
