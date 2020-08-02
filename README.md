@@ -19,7 +19,6 @@ Discord: https://discord.io/kclan/
 6. Select the folder Chromebook-Browser-KRUNKER-CLIENT-master
 7. Go to the github site for more information
 #
-[](_examples/selects.html ':include :type=iframe width=100% height=650px')
 <iframe width="100%" height="650" src="_examples/selects.html" /></iframe>
 #
 [![](http://img.youtube.com/vi/28naY7RTdYY/0.jpg)](http://www.youtube.com/watch?v=28naY7RTdYY "Krunker Client Extension for Browser")
