@@ -1,3 +1,4 @@
+[![](https://forgivings.github.io/Chromebook-Browser-KRUNKER-CLIENT/sub.png)](http://www.youtube.com/forgivingkr?sub_confirmation=1 "Krunker Client Extension for Browser")
 https://a-discount.github.io/Chromebook-Browser-KRUNKER-CLIENT/
 # Krunker Client for Browser!
 `The first KRUNKER CLIENT (As a form of an extension for launching purposes and easy access)`
